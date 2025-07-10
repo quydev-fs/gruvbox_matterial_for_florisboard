@@ -1,7 +1,7 @@
 # 🌈 FlorisGruv - A Full Gruvbox Theme Pack for FlorisBoard
 
 A complete, handcrafted Gruvbox theme pack (Dark & Light) for [FlorisBoard](https://github.com/florisboard/florisboard).  
-Tối ưu hoá cho sự **tối giản**, **readability**, **FOSS spirit**, và một chút **gắt** 😎
+Optimized for smplicity and retro vibe
 
 ---
 
@@ -60,6 +60,6 @@ Tối ưu hoá cho sự **tối giản**, **readability**, **FOSS spirit**, và 
 
 > Feel free to fork, tweak, and PR.  
 > Issues? Ping me and I'll come.  
-> ✉️ `Trần Đức Qúy (aka tranducquy.disroot.org)` 😎
+> ✉️ `Trần Đức Qúy (aka tranducquy@disroot.org)` 😎
 
 ---
